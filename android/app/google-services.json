@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327301835781",
+    "project_id": "appse-c17f4",
+    "storage_bucket": "appse-c17f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327301835781:android:82c6f5af3372f5034fc06c",
+        "android_client_info": {
+          "package_name": "com.appse.appse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEAbBfMTnU469_ffGC4oEvG9g6aaEO6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
