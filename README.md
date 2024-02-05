@@ -2,17 +2,17 @@
 
 A Flutter project For Submission Open Recruitment Admin LABSE.
 
-##Overview
+## Overview
 This repository contains the source code and documentation for a Laboratory Management System, designed for managing laboratory activities including attendance tracking, reading materials, news updates, and training sessions. The system is intended to streamline administrative tasks and enhance communication within the laboratory.
 
-##Technologies
+## Technologies
 1. Dart
 2. Flutter
 3. GetX
 4. Firebase
 5. FireStore
 
-##Features
+## Features
 1. Attendance Tracking
 Description: Keep track of attendance for laboratory sessions.
 Usage: Admins can mark attendance, view attendance history, and generate reports.
@@ -26,7 +26,7 @@ Usage: Admins can post news updates, and users can view them.
 Description: Organize and manage training sessions for laboratory members.
 Usage: Admins can schedule, update, and track training sessions.
 
-##Screenshot
+## Screenshot
 ![Screenshot_1707142406](https://github.com/pramudyanuar/appse/assets/131145420/1c5a561d-7569-4413-9dcb-0ea9f68a69b0)![Screenshot_1707142533](https://github.com/pramudyanuar/appse/assets/131145420/1d61e15f-2a1b-4f40-9ec3-d42a8ecc8e21)
 ![Screenshot_1707142439](https://github.com/pramudyanuar/appse/assets/131145420/1937ed30-842a-4ea1-bcad-7c6d3837742b)
 ![Screenshot_1707142570](https://github.com/pramudyanuar/appse/assets/131145420/8dad1409-4b49-45c2-9897-2d7fede18009)
