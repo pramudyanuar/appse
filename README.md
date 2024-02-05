@@ -2,6 +2,9 @@
 
 A Flutter project For Submission Open Recruitment Admin LABSE.
 
+## Tested
+✓ Tested in emulator
+
 ## Overview
 This repository contains the source code and documentation for a Laboratory Management System, designed for managing laboratory activities including attendance tracking, reading materials, news updates, and training sessions. The system is intended to streamline administrative tasks and enhance communication within the laboratory.
 
