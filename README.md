@@ -2,7 +2,7 @@
 
 A Flutter project For Submission Open Recruitment Admin LABSE.
 
-## Warning
+## Tested
 ✓ Tested in emulator
 
 ## Overview
